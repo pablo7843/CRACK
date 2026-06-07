@@ -1,0 +1,19 @@
+# Sample hashes for testing crack.py
+# Usage:
+#   python crack.py --hash <hash> --algo auto --attack dict
+#   python crack.py --hash-file hashes/samples.txt --algo MD5 --attack dict
+#   python generate_hash.py "yourpassword" --algo all
+#
+# All answers are in the wordlists/common.txt wordlist.
+
+# ── MD5 (--algo MD5) ──────────────────────────────────────────────────────────
+5f4dcc3b5aa765d61d8327deb882cf99
+e10adc3949ba59abbe56e057f20f883e
+d8578edf8458ce06fbc5bb76a58c5ca4
+e99a18c428cb38d5f260853678922e03
+0d107d09f5bbe40cade3de5c71e9e9b7
+d0763edaa9d9bd2a9516280e9044d885
+8621ffdbc5698829397d97767ac13db3
+0571749e2ac330a7455809c6b0e7af90
+f25a2fc72690b780b2a14e140ef6a9e0
+21232f297a57a5a743894a0e4a801fc3
